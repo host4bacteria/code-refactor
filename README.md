@@ -5,11 +5,13 @@
 This is a code refactoring project to ensure the codebase follows accessibility standards, improving the sites search engine optomization and convenience for those with special needs.
 
 ## User Story
+
 AS A software engineer
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
+
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
