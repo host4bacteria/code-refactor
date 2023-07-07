@@ -7,7 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
-/* nav bar */
+/* nav bar
+
+-deleted extra header tags because each selector resides within header anyway. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;

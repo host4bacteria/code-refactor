@@ -1,29 +1,17 @@
+# Code Refactor
 
-## User Story
+## Description
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+This is a code refactoring project to ensure the codebase follows accessibility standards, improving the sites search engine optomization and convenience for those with special needs.
 
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
+## Mock-Up
 
 ![Alt text](01-html-css-git-homework-demo.png)
 
+## Deployed Application
 
+(https://host4bacteria.github.io/code-refactor/)
+
+## License
+
+Please refer to LICENSE in repo.
